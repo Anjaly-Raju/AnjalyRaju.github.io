@@ -1,7 +1,7 @@
 # Anjaly Raju
- 💡 Technical Writer | Business Analyst | Documentation Specialist
-📩 Contact: anjaly.raju321@gmail.com
-🌐 GitHub: github.com/Anjaly-Raju
+- 💡 Technical Writer | Business Analyst | Documentation Specialist
+- 📩 Contact: anjaly.raju321@gmail.com
+- 🌐 GitHub: github.com/Anjaly-Raju
 ## About me
 Experienced Technical Writer skilled in XML, HTML, DITA, and Doc-as-Code methodologies. Proficient in creating API documentation, user manuals, and online help guides for diverse audiences across enterprise software, healthcare, security, insurance, cybersecurity, asset management, and industrial IoT domains. Adept at using tools like Markdown, Confluence, JIRA, Git, and Camtasia. Expertise in cross-functional collaboration, standardizing documentation practices, mentoring teams, and delivering user-friendly technical content. Strong in producing architectural diagrams, flowcharts, and GUI product manuals with excellent communication and presentation skills.
 ## WORK EXPERIENCE
